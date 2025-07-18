@@ -63,5 +63,7 @@
 - `testA_data.csv` - 测试数据（文件较大，未上传到GitHub）
 - `submit.csv` - 提交格式样例
 
-**注意**：由于数据文件较大（train.csv 约283MB，testA_data.csv 约92MB），超过了GitHub的文件大小限制，因此未包含在此仓库中。如需获取数据文件，请参考Datawhale夏令营相关资料。
+**数据下载地址**：https://challenge.xfyun.cn/topic/info?type=subscriber-addition-2025&option=stsj
+
+**注意**：由于数据文件较大（train.csv 约283MB，testA_data.csv 约92MB），超过了GitHub的文件大小限制，因此未包含在此仓库中。请通过上述链接下载数据文件。
 

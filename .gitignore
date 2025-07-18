@@ -48,6 +48,6 @@ venv.bak/
 ehthumbs.db
 Thumbs.db
 
-# Data files (uncomment if you don't want to upload large datasets)
-# *.csv
-# *.json
+# Data files (large datasets excluded from GitHub)
+train.csv
+testA_data.csv

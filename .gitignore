@@ -49,5 +49,5 @@ ehthumbs.db
 Thumbs.db
 
 # Data files (large datasets excluded from GitHub)
-train.csv
-testA_data.csv
+data/train.csv
+data/testA_data.csv
